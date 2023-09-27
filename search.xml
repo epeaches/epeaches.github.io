@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2023/09/27/%E6%8A%A5%E9%94%99requestfail%20invalid%20url/"/>
+      <url>/2023/09/27/%E6%8A%A5%E9%94%99requestfail%20invalid%20url/</url>
+      
+        <content type="html"><![CDATA[<h1 id="微信小程序报错：“errno“-600009-“errMsg“-“request-fail-invalid-url”"><a href="#微信小程序报错：“errno“-600009-“errMsg“-“request-fail-invalid-url”" class="headerlink" title="微信小程序报错：“errno“:600009,“errMsg“:“request:fail invalid url”"></a>微信小程序报错：“errno“:600009,“errMsg“:“request:fail invalid url”</h1><p>可以将图中所示代码修改为以下形式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">1.async onLoadfunction (options)</span><br></pre></td></tr></table></figure><p>![](.&#x2F;报错requestfail invalid url&#x2F;cuo.png)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>VS Code 配置 插件Easy LESS 显示源代码地图</title>
       <link href="/2023/07/13/less%E6%BA%90%E7%A0%81%E5%9C%B0%E5%9B%BE%E9%85%8D%E7%BD%AE/"/>
       <url>/2023/07/13/less%E6%BA%90%E7%A0%81%E5%9C%B0%E5%9B%BE%E9%85%8D%E7%BD%AE/</url>
